@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "al-talk-wbea",
+  "private_key_id": "a0f1c5f2fbaac444c3acffdfa68785580f0dab3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7sLdg8eN2Oq23\nTT13MdWjAKVZhXAIVgSk2AqK1/9f54cYLzezZDMuU0vkW2e74QWLDDEiej8qAUs7\nFqdAyHXlW/SW/VN+gUWd94K3XywkXaOmcidg2jS+oPs8V4sFztN3LB7wcDVdExXv\nWjxmelLx3w1ydDOYE2OPEM4sg5NB2ON5pKvpz5AY0sZMcc+GxC+u23HMbvcaV834\nq/RrdsB5VCT2E8GAW86zn4+Zw1faT1PqHeGpPH42DJXksDCcAdpPDIopANt21N6B\ncnNcEVvpeqBBj7xdVbpAyl/sCb6ir2FWjpxULVAYxC7FRPzmSU4Jll5CvMsOv6BA\nzRKXo4OVAgMBAAECggEAFPrnOLM5O59KCU4dQ4xixtZ85TGdCRWCbeHHZedIoNIK\n4BlxFsCp1vERL+zGvvHjknwxptq24k1kOS3qUrvFr/Z0NAeLtH2jSEnhRvmgv8zm\nzOWAQNuLX06z3rYjcGoC6dSY/cPxNx75yfhSfZsJWAeYo3VZShPKwnR8s22ewZKZ\nptmkwyhphIf6RSF5f5IBxEAv+eJWcZDA2FCJw8nN1rzEQYIOdBnA+c0mrh9LPX4a\n12gymi3rX0hQi/dIdp65WRiWqx7cxuv9B2Xmd3EAWcO3BCAyRj7jd7ugfsS99mUN\nSKhXyZbfX5WaCrRbQUhS0SZc77i+GrP/T2cagYGkcQKBgQDlRo+2JML0SW8Efg+S\nHCyRbiKL0o9fI18gj4xcLTlHMIu8QuZW5S8bx6kfwSD2dXJX7pP7+PzBSZAGTtxx\nw5GLOQOSwAly0lPAFqcChmwRjFikftrEiqzUTGBSL8dBZgezWuBIwu/aiVFnCiWk\nEC3c+BctiS+gloGTLX3SbxOGEQKBgQDRkUZwRLcty7h4osW0/RdZQw50LKfEEamk\npU/Z7cJFGdSLQEr0icg4UIEeIEFlD91HRYrkkNdYlsbgvFn4+vDJQsjb4iNP8aDB\nNGnlWPQXKyHwTdnzzCd9Fq75owVe5BX4ISw6LpfEib6SbcQZA0VqiNZU/HuV9o6d\n6M96AaVRRQKBgQDkCmqmH6pIj0F8lmWmTZ+GhqSVrbgsSGI1YJGanOB7ji1t8pxn\nkUxptQziKJVAjVBNZV6LH/tFxIUbwRRBkuMQNoT3UUoUil4CkIVMXabfTVhdRE8T\nbVq5Tb4AAMWOpozCN4Ec3cby9eGhOtZ1eCIlxhxHjktwzkHSwUyEITaqAQKBgB+t\n+VrxWEuI90rtODvi4ouw0leHhJjkHqPwBYEpKuvtOq8OOgZ7aZPxv4MBV0Fiw42J\nmrRwnM0chdXlQyibLpkOCnUK21GzchyiwrtT1hpGf+vmqOLs4q9LJYpBNYehrRyE\nTz5AWtrwA6n5A+LQFsdDBjt0q24BBpAiaHLGGuqNAoGBAJ0Qyrwcci98MpUe1HeJ\n5M6T0FhizkTApCzM7eAIP+1MxB+hXssJgPPVjvWzcf4QLfnwJ5qV8dHI4Ca4bxV7\n8KzqaHNpAtPX3XrebICji5KEsNqak/cQvJJRDS4qolfKRA8IPBzcUF1DbFELX46C\ncPmzhRSg+3EoX9JHzMvq240e\n-----END PRIVATE KEY-----\n",
+  "client_email": "altalkchatbot@al-talk-wbea.iam.gserviceaccount.com",
+  "client_id": "113245894761294074331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/altalkchatbot%40al-talk-wbea.iam.gserviceaccount.com"
+}
